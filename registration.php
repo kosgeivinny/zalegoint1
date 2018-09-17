@@ -13,7 +13,6 @@
     <div class="well">
 <form method="POST" action="registration_connect.php">
     <br />
-    <legend>
         <h3>
             <b>
                 <u>
@@ -21,7 +20,6 @@
                 </u>
             </b>
         </h3>
-    </legend>
     <div class="row">
     <div class="form-group col-2">
     <label>
